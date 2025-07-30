@@ -1,0 +1,15 @@
+# Compilados Java
+*.class
+
+# Pasta de build do Maven
+/target/
+
+# Configurações locais do VS Code
+.vscode/
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários de sistema
+.DS_Store
+Thumbs.db
